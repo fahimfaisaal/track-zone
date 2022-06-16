@@ -1,0 +1,15 @@
+.clock {
+  text-align: center;
+  position: relative;
+}
+
+.clock > * {
+  margin: 15px 0px;
+}
+
+.close {
+  position: absolute;
+  top: 0;
+  right: 15px;
+  cursor: pointer;
+}

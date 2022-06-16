@@ -1,0 +1,19 @@
+.title {
+  text-align: center;
+  padding: 15px 0;
+}
+
+.time-zones {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  /* align-items: center; */
+}
+
+.time-zones > * {
+  margin: 25px 20px;
+  padding: 15px 25px;
+  outline: 1.5px solid rgb(57, 56, 56);
+  border-radius: 5px;
+}
